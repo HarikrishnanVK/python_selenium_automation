@@ -1,0 +1,940 @@
+1673854810857	geckodriver	INFO	Listening on 127.0.0.1:61180
+1673854813681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofile1JIEWN"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673854816306	Marionette	INFO	Marionette enabled
+1673854816320	Marionette	INFO	Listening on port 61203
+Read port: 61203
+WebDriver BiDi listening on ws://127.0.0.1:61181
+1673854817051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofile1JIEWN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61181/devtools/browser/3e0d6157-33a7-462f-9b49-060ca1e8e268
+[Child 5756, MediaDecoderStateMachine #1] WARNING: Decoder=233229b4000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 5756, MediaDecoderStateMachine #1] WARNING: Decoder=233229b4000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673855171198	Marionette	INFO	Stopped listening on port 61203
+!!! error running onStopped callback: TypeError: callback is not a function
+1673855174740	geckodriver	INFO	Listening on 127.0.0.1:61419
+1673855177809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61420" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileZkvSI1"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673855179831	Marionette	INFO	Marionette enabled
+1673855179848	Marionette	INFO	Listening on port 61430
+Read port: 61430
+WebDriver BiDi listening on ws://127.0.0.1:61420
+1673855180481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileZkvSI1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61420/devtools/browser/dbaaefa7-0a8f-44a2-b0cd-c789d84b59c6
+[Child 15048, MediaDecoderStateMachine #1] WARNING: Decoder=1d74d6e7200 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 15048, MediaDecoderStateMachine #1] WARNING: Decoder=1d74d6e7200 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673856305646	Marionette	INFO	Stopped listening on port 61430
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilexFrFPH"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673856169387	Marionette	INFO	Marionette enabled
+1673856169405	Marionette	INFO	Listening on port 62217
+Read port: 62217
+WebDriver BiDi listening on ws://127.0.0.1:62205
+1673856170034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilexFrFPH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62205/devtools/browser/86c31251-8d2a-438d-b9e0-54da59450033
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673856304275	Marionette	INFO	Stopped listening on port 62217
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 279: TypeError: this._builder is undefined
+[Parent 19144, Main Thread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1673856310632	geckodriver	INFO	Listening on 127.0.0.1:62394
+1673856313805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilehgqqMR"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673856315889	Marionette	INFO	Marionette enabled
+1673856315899	Marionette	INFO	Listening on port 62407
+Read port: 62407
+WebDriver BiDi listening on ws://127.0.0.1:62395
+1673856316450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilehgqqMR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62395/devtools/browser/a6a19d55-8386-42b4-9c3b-d41525eb889a
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673856471296	Marionette	INFO	Stopped listening on port 62401673856472906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofile2GsP5A"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673856475020	Marionette	INFO	Marionette enabled
+1673856475035	Marionette	INFO	Listening on port 62610
+Read port: 62610
+WebDriver BiDi listening on ws://127.0.0.1:62595
+1673856475624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofile2GsP5A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62595/devtools/browser/c21ba9c0-89aa-4b14-adba-32a75e13098b
+JavaScript error: https://staticcontents.investisdigital.com/html/c/cidip/inv_resolution_lf_1.0.js, line 7: TypeError: ga.getAll is not a function
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673857070597	Marionette	INFO	Stopped listening on port 62610
+!!! error running onStopped callback: TypeError: callback is not a function
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1fd592eea00","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3808,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164","chrome://global/content/elements/browser-custom-element.js:get loadContext:385","chrome://global/content/elements/browser-custom-element.js:construct:995","chrome://global/content/elements/browser-custom-element.js:connectedCallback:323","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:413","chrome://browser/content/tabbrowser.js:init:55","chrome://browser/content/browser.JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673857132198	Marionette	INFO	Stopped listening on port 63043
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673857157551	geckodriver	INFO	Listening on 127.0.0.1:63200
+1673857160744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileNsQANz"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673857163450	Marionette	INFO	Marionette enabled
+1673857163461	Marionette	INFO	Listening on port 63214
+Read port: 63214
+WebDriver BiDi listening on ws://127.0.0.1:63201
+1673857164075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileNsQANz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63201/devtools/browser/6a226a4f-2306-4422-8b0d-43a719b95cc2
+[Child 18448, MediaDecoderStateMachine #1] WARNING: Decoder=27945de6900 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 18448, MediaDecoderStateMachine #1] WARNING: Decoder=27945de6900 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673857297866	Marionette	INFO	Stopped listening on port 63214
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1673857301725	geckodriver	INFO	Listening on 127.0.0.1:63499
+1673857304799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63500" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileIkucwc"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673857306907	Marionette	INFO	Marionette enabled
+1673857306932	Marionette	INFO	Listening on port 63513
+Read port: 63513
+WebDriver BiDi listening on ws://127.0.0.1:63500
+1673857307723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileIkucwc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63500/devtools/browser/d727ed2e-8d36-499e-8f9f-61bb08f9ddbd
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673857439965	Marionette	INFO	Stopped listening on port 63513
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673857538116	geckodriver	INFO	Listening on 127.0.0.1:63764
+1673857541294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilejenFXa"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673857543387	Marionette	INFO	Marionette enabled
+1673857543404	Marionette	INFO	Listening on port 63775
+Read port: 63775
+WebDriver BiDi listening on ws://127.0.0.1:63765
+1673857544028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilejenFXa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63765/devtools/browser/1092a13b-b9c0-486c-a945-b9b2ea748d22
+[Child 21484, MediaDecoderStateMachine #1] WARNING: Decoder=2af557e1700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 21484, MediaDecoderStateMachine #1] WARNING: Decoder=2af557e1700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673857574167	Marionette	INFO	Stopped listening on port 63775
+!!! error running onStopped callback: TypeError: callback is not a function
+1673857903643	geckodriver	INFO	Listening on 127.0.0.1:64070
+1673857906825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileguOdfk"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673857908722	Marionette	INFO	Marionette enabled
+1673857908738	Marionette	INFO	Listening on port 64084
+Read port: 64084
+WebDriver BiDi listening on ws://127.0.0.1:64071
+1673857909298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileguOdfk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64071/devtools/browser/9189dd36-e5c4-4745-ba7f-24de4ffac210
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+JavaScript error: https://staticcontents.investisdigital.com/html/c/cidip/inv_resolution_lf_1.0.js, line 7: TypeError: ga.getAll is not a function
+1673858191243	Marionette	INFO	Stopped listening on port 64084
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1673858195255	geckodriver	INFO	Listening on 127.0.0.1:64692
+1673858198590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilei5yWNR"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673858200599	Marionette	INFO	Marionette enabled
+1673858200613	Marionette	INFO	Listening on port 64703
+Read port: 64703
+WebDriver BiDi listening on ws://127.0.0.1:64693
+1673858201668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilei5yWNR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64693/devtools/browser/ed65ba98-81d8-40b4-84ef-57bfab29cb43
+1673858235370	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673858237786	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+1673858256015	Marionette	INFO	Stopped listening on port 64703
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1673858295988	geckodriver	INFO	Listening on 127.0.0.1:65040
+1673858299158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileCb8HQD"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673858301135	Marionette	INFO	Marionette enabled
+1673858301148	Marionette	INFO	Listening on port 65053
+Read port: 65053
+WebDriver BiDi listening on ws://127.0.0.1:65041
+1673858301735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileCb8HQD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65041/devtools/browser/5f8f0691-2063-4537-9b1a-3b9ef05b8189
+1673858326449	Marionette	INFO	Stopped listening on port 65053
+!!! error running onStopped callback: TypeError: callback is not a function
+1673858489612	geckodriver	INFO	Listening on 127.0.0.1:49235
+1673858492784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49236" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileISqMT5"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673858494616	Marionette	INFO	Marionette enabled
+1673858494632	Marionette	INFO	Listening on port 49247
+Read port: 49247
+WebDriver BiDi listening on ws://127.0.0.1:49236
+1673858495233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileISqMT5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49236/devtools/browser/c9d30272-8929-424b-9e74-ebcb86ce903e
+1673858520225	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673858523760	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+1673858590226	Marionette	INFO	Stopped listening on port 49247
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 20836, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1673858660337	geckodriver	INFO	Listening on 127.0.0.1:49451
+1673858663449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49452" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilee4COi9"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673858665502	Marionette	INFO	Marionette enabled
+1673858665520	Marionette	INFO	Listening on port 49464
+Read port: 49464
+WebDriver BiDi listening on ws://127.0.0.1:49452
+1673858666164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilee4COi9\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:49452/devtools/browser/bf38a939-271d-4f67-9271-9739f08afd30
+1673858691298	Marionette	INFO	Stopped listening on port 49464
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673858735918	geckodriver	INFO	Listening on 127.0.0.1:49585
+1673858739080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49586" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileswVcdu"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673858741116	Marionette	INFO	Marionette enabled
+1673858741137	Marionette	INFO	Listening on port 49598
+Read port: 
+1673858741144	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 49598
+WebDriver BiDi listening on ws://127.0.0.1:49586
+1673858741745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileswVcdu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49586/devtools/browser/8d64a6d0-693b-48db-8366-b3d652340c64
+1673858766427	Marionette	INFO	Stopped listening on port 49598
+1673858799394	geckodriver	INFO	Listening on 127.0.0.1:49794
+1673858802503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilemvOEws"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673858804379	Marionette	INFO	Marionette enabled
+1673858804396	Marionette	INFO	Listening on port 49809
+Read port: 49809
+WebDriver BiDi listening on ws://127.0.0.1:49795
+1673858804970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilemvOEws\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49795/devtools/browser/1f16accf-9fca-4902-b2d6-4c591eb2a537
+[Child 13144, MediaDecoderStateMachine #1] WARNING: Decoder=21581fd5a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 13144, MediaDecoderStateMachine #1] WARNING: Decoder=21581fd5a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673858873766	Marionette	INFO	Stopped listening on port 49809
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1673858880533	geckodriver	INFO	Listening on 127.0.0.1:49959
+1673858883687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49960" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileGYC4KV"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673858885836	Marionette	INFO	Marionette enabled
+1673858885852	Marionette	INFO	Listening on port 49975
+Read port: 49975
+WebDriver BiDi listening on ws://127.0.0.1:49960
+1673858886402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileGYC4KV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49960/devtools/browser/2ca8d37e-d9de-4df9-9ed8-789638484f84
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673858930835	Marionette	INFO	Stopped listening on port 49975
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1673859287480	geckodriver	INFO	Listening on 127.0.0.1:51809
+1673859290623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51810" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilecvTCjn"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673859292591	Marionette	INFO	Marionette enabled
+1673859292608	Marionette	INFO	Listening on port 51821
+Read port: 51821
+WebDriver BiDi listening on ws://127.0.0.1:51810
+1673859293205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilecvTCjn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51810/devtools/browser/ae40587b-6244-40a8-8c0d-3f30c632572d
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673859430677	Marionette	INFO	Stopped listening on port 51821
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 21264, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1673859435159	geckodriver	INFO	Listening on 127.0.0.1:52150
+1673859438261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilepUJV10"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673859440341	Marionette	INFO	Marionette enabled
+1673859440355	Marionette	INFO	Listening on port 52163
+Read port: 52163
+WebDriver BiDi listening on ws://127.0.0.1:52151
+1673859440975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilepUJV10\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52151/devtools/browser/9fcb222a-8845-47a6-86f5-039fce49f7a7
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673859507968	Marionette	INFO	Stopped listening on port 52163
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1673859513002	geckodriver	INFO	Listening on 127.0.0.1:52285
+1673859516089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52286" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileQWd8up"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673859517957	Marionette	INFO	Marionette enabled
+1673859517972	Marionette	INFO	Listening on port 52301
+Read port: 52301
+WebDriver BiDi listening on ws://127.0.0.1:52286
+1673859518583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileQWd8up\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52286/devtools/browser/1f5da57d-82d5-4e71-9992-7928dd889d9c
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673859628642	Marionette	INFO	Stopped listening on port 52301
+!!! error running onStopped callback: TypeError: callback is not a function
+1673859635019	geckodriver	INFO	Listening on 127.0.0.1:52465
+1673859638186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52466" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileLd27y6"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673859640097	Marionette	INFO	Marionette enabled
+1673859640111	Marionette	INFO	Listening on port 52478
+Read port: 52478
+WebDriver BiDi listening on ws://127.0.0.1:52466
+1673859640721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileLd27y6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52466/devtools/browser/30e1ad0c-568c-4da7-884a-6120baa00385
+[Child 3788, MediaDecoderStateMachine #1] WARNING: Decoder=1475ecdd700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 3788, MediaDecoderStateMachine #1] WARNING: Decoder=1475ecdd700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673859702401	Marionette	INFO	Stopped listening on port 52478
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1673859706681	geckodriver	INFO	Listening on 127.0.0.1:52606
+1673859709844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52607" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileljvKMC"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673859711742	Marionette	INFO	Marionette enabled
+1673859711752	Marionette	INFO	Listening on port 52619
+Read port: 52619
+WebDriver BiDi listening on ws://127.0.0.1:52607
+1673859712313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileljvKMC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52607/devtools/browser/381720b8-1fbb-4bd8-a673-708e9a4eadfc
+[Child 19176, MediaDecoderStateMachine #1] WARNING: Decoder=2743425a400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 19176, MediaDecoderStateMachine #1] WARNING: Decoder=2743425a400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673859960809	Marionette	INFO	Stopped listening on port 52619
+!!! error running onStopped callback: TypeError: callback is not a function
+1673859964689	geckodriver	INFO	Listening on 127.0.0.1:52911
+1673859967850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52912" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilex6fKdw"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673859969844	Marionette	INFO	Marionette enabled
+1673859969858	Marionette	INFO	Listening on port 52925
+Read port: 52925
+WebDriver BiDi listening on ws://127.0.0.1:52912
+1673859970424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilex6fKdw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52912/devtools/browser/e06fe879-6f86-48e7-93ad-d6973773c744
+[Child 18608, MediaDecoderStateMachine #1] WARNING: Decoder=2a6bbd9b400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 18608, MediaDecoderStateMachine #1] WARNING: Decoder=2a6bbd9b400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+1673860000108	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673860002462	Marionette	INFO	Stopped listening on port 52925
+1673860131740	geckodriver	INFO	Listening on 127.0.0.1:53102
+1673860134882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileIYmZDX"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673860136815	Marionette	INFO	Marionette enabled
+1673860136832	Marionette	INFO	Listening on port 53114
+Read port: 53114
+WebDriver BiDi listening on ws://127.0.0.1:53103
+1673860137412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileIYmZDX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53103/devtools/browser/0c0c65f4-ed32-49cb-9ff1-f0f162cab4ce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+1673860159459	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673860162054	Marionette	INFO	Stopped listening on port 53114
+1673877671045	geckodriver	INFO	Listening on 127.0.0.1:65351
+1673877674100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65352" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilePO9W2a"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673877676473	Marionette	INFO	Marionette enabled
+1673877676490	Marionette	INFO	Listening on port 65371
+Read port: 65371
+WebDriver BiDi listening on ws://127.0.0.1:65352
+1673877677131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilePO9W2a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65352/devtools/browser/14e8ad6d-dafe-430f-82fd-fccbec1d9605
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3325: TypeError: can't access dead object
+1673877704002	Marionette	INFO	Stopped listening on port 65371
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 20860, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1673877871089	geckodriver	INFO	Listening on 127.0.0.1:49242
+1673877874125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileEnrxAl"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673877876202	Marionette	INFO	Marionette enabled
+1673877876216	Marionette	INFO	Listening on port 49259
+Read port: 49259
+WebDriver BiDi listening on ws://127.0.0.1:49243
+1673877876826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileEnrxAl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49243/devtools/browser/0ecacc6b-8238-4572-aa74-e039187a94ed
+1673877898195	Marionette	INFO	Stopped listening on port 49259
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+[Parent 4196, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1673877995357	geckodriver	INFO	Listening on 127.0.0.1:49497
+1673877998398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49498" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileH104kw"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673878000177	Marionette	INFO	Marionette enabled
+1673878000192	Marionette	INFO	Listening on port 49514
+Read port: 49514
+WebDriver BiDi listening on ws://127.0.0.1:49498
+1673878000875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileH104kw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49498/devtools/browser/d820723d-d451-4b3a-be06-29d2b8a72c2c
+1673878023668	Marionette	INFO	Stopped listening on port 49514
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+!!! error running onStopped callback: TypeError: callback is not a function
+1673878654244	geckodriver	INFO	Listening on 127.0.0.1:50141
+1673878657262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50142" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileIHCy9k"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673878659630	Marionette	INFO	Marionette enabled
+1673878659644	Marionette	INFO	Listening on port 50154
+Read port: 50154
+WebDriver BiDi listening on ws://127.0.0.1:50142
+1673878660284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileIHCy9k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50142/devtools/browser/778a7b1a-3bf4-42e8-8fe7-f7a7cd18c3e2
+1673878684048	Marionette	INFO	Stopped listening on port 50154
+1673878878172	geckodriver	INFO	Listening on 127.0.0.1:50420
+1673878881212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofile5ybXYz"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673878884184	Marionette	INFO	Marionette enabled
+1673878884198	Marionette	INFO	Listening on port 50437
+Read port: 50437
+WebDriver BiDi listening on ws://127.0.0.1:50421
+1673878884823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofile5ybXYz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50421/devtools/browser/be9aee57-7f8c-4406-b52a-b21eb755f603
+1673878906871	Marionette	INFO	Stopped listening on port 50437
+JavaScript error: https://www.bupa.com/javascripts/ResourceHandlermerge.js?0=%7B8D00B6F6-B980-47C8-8AEE-10BEF2DB19A5%7D&1=%7BDE55E377-528F-491A-B2EC-61622D54BF01%7D&2=%7B73FD0A45-A57D-42F9-BB69-B54066DB7000%7D&3=%7BECDD2F03-FFDD-4243-A572-AF48E68F5B95%7D&5=%7B1B14A6A6-1CE2-478E-A1D7-B0788608F893%7D&6=%7B27158244-1343-48D5-BBEF-2E6CF17A0E12%7D&7=%7BCD52E4C3-EB69-48A9-9D61-7122936E983D%7D&8=%7BE2BFF9C2-6F18-43B4-85A2-7E1442E7BA8B%7D&9=%7BE83EB75C-68F9-4A60-A190-15F308D535A5%7D&10=%7B35745F0D-F491-414D-A2A2-911D38B0FAE8%7D&11=%7BF07C006D-9B4A-483A-8B92-99503BE4D240%7D&12=%7B52D9D5F9-7B97-4AB9-A799-CE4A3C570996%7D&13=%7B35BB5D00-B435-48FC-AC47-42B5F24DA157%7D&14=%7BED2F4635-9016-481F-86B3-F9603F3B5993%7D&15=%7B6C1F1298-BEDB-4B80-9E51-F8D35778D4C5%7D&16=%7BA5512EFF-6AD6-408E-87A8-918FD8FD571F%7D&17=%7B2A26D185-9793-40BB-BDD2-95A8DCDB728B%7D&18=%7BE4154F4A-4EDE-42E2-8C68-7118F6384989%7D&19=%7B5DF3B623-C584-4E36-ADE0-6351A853AE5B%7D&20=%7B3E05A56D-0377-4A77-99A2-F66064C5B7FA%7D&21=%7BB7E62990-F08D-4277-9738-5435EF52756D%7D&22=%7B54472C05-59BB-46E4-8BE8-2AE4708FB559%7D&23=%7BA62F4B65-EBB2-4DE5-8B15-5A72267E9044%7D&24=%7BC486EDFC-2D58-4DDB-8ABD-13E9881E6252%7D&25=%7BCBF1B1CB-5E9E-48D6-873C-1DA9DAA908F2%7D&26=%7B1EFDD6B9-7BCC-45E8-95DD-156ECB477EA3%7D&27=%7BCCE65EE8-A5A6-430F-947E-95932BAB02DF%7D&28=%7BEA9187EE-1910-4165-82F2-8566F69B981A%7D&sc_lang=en&revision=82e41887-2aa6-49f1-947b-f9ad2fe867ff, line 25661: NS_ERROR_ABORT: 
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+!!! error running onStopped callback: TypeError: callback is not a function
+1673879156212	geckodriver	INFO	Listening on 127.0.0.1:50748
+1673879159532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileHQFPxT"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673879162056	Marionette	INFO	Marionette enabled
+1673879162071	Marionette	INFO	Listening on port 50771
+Read port: 50771
+WebDriver BiDi listening on ws://127.0.0.1:50749
+1673879162759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileHQFPxT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50749/devtools/browser/e06f7814-9d60-469e-aa11-b7b0904b2425
+1673879190509	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673879193353	Marionette	INFO	Stopped listening on port 50771
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1673882182190	geckodriver	INFO	Listening on 127.0.0.1:52860
+1673882185205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofile2KRmuO"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673882187491	Marionette	INFO	Marionette enabled
+1673882187505	Marionette	INFO	Listening on port 52873
+Read port: 52873
+WebDriver BiDi listening on ws://127.0.0.1:52861
+1673882188130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofile2KRmuO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52861/devtools/browser/a2e6a777-99ff-487e-bed6-a03d0c033b59
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+1673882217582	Marionette	INFO	Stopped listening on port 52873
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+1673882375209	geckodriver	INFO	Listening on 127.0.0.1:53137
+1673882378656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileGAK8Zr"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673882381363	Marionette	INFO	Marionette enabled
+1673882381374	Marionette	INFO	Listening on port 53157
+Read port: 53157
+WebDriver BiDi listening on ws://127.0.0.1:53138
+1673882381955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileGAK8Zr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53138/devtools/browser/bb0d9d6c-1868-4452-be00-b5ffd327e1ae
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673882408850	Marionette	INFO	Stopped listening on port 53157
+!!! error running onStopped callback: TypeError: callback is not a function
+1673882468384	geckodriver	INFO	Listening on 127.0.0.1:53362
+1673882471422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilerOsjPN"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673882473486	Marionette	INFO	Marionette enabled
+1673882473507	Marionette	INFO	Listening on port 53377
+Read port: 53377
+WebDriver BiDi listening on ws://127.0.0.1:53363
+1673882474187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilerOsjPN\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:53363/devtools/browser/0bcb542d-7572-4056-8a69-1687abe9a5fb
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673882499823	Marionette	INFO	Stopped listening on port 53377
+JavaScript error: https://staticcontents.investisdigital.com/html/c/cidip/inv_resolution_lf_1.0.js, line 7: TypeError: ga.getAll is not a function
+1673942390797	geckodriver	INFO	Listening on 127.0.0.1:59358
+1673942393852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileMSJKH6"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673942395973	Marionette	INFO	Marionette enabled
+1673942395990	Marionette	INFO	Listening on port 59372
+Read port: 59372
+WebDriver BiDi listening on ws://127.0.0.1:59359
+1673942396612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileMSJKH6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59359/devtools/browser/d089705a-5e71-460e-b86b-eca650a9c202
+1673942407946	Marionette	INFO	Stopped listening on port 59372
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+!!! error running onStopped callback: TypeError: callback is not a function
+1673942768745	geckodriver	INFO	Listening on 127.0.0.1:59524
+1673942771854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilejjwepX"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673942773430	Marionette	INFO	Marionette enabled
+1673942773447	Marionette	INFO	Listening on port 59533
+Read port: 59533
+WebDriver BiDi listening on ws://127.0.0.1:59525
+1673942773996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilejjwepX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59525/devtools/browser/81f9718b-8824-4472-9d51-7de122a354be
+1673942779397	Marionette	INFO	Stopped listening on port 59533
+!!! error running onStopped callback: TypeError: callback is not a function
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1250: TypeError: connection not specified in clone options.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1673942858413	geckodriver	INFO	Listening on 127.0.0.1:59624
+1673942861533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileO6Z57n"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673942863113	Marionette	INFO	Marionette enabled
+1673942863126	Marionette	INFO	Listening on port 59638
+Read port: 59638
+WebDriver BiDi listening on ws://127.0.0.1:59625
+1673942863659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileO6Z57n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59625/devtools/browser/cbf46203-4d40-4350-bf0e-ab2dc9fe04a9
+1673942887918	Marionette	INFO	Stopped listening on port 59638
+!!! error running onStopped callback: TypeError: callback is not a function
+1673943029319	geckodriver	INFO	Listening on 127.0.0.1:59795
+1673943032252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59796" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilegt4BQu"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673943034021	Marionette	INFO	Marionette enabled
+1673943034035	Marionette	INFO	Listening on port 59803
+Read port: 59803
+WebDriver BiDi listening on ws://127.0.0.1:59796
+1673943034624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilegt4BQu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59796/devtools/browser/42f968e6-2588-41a9-b46f-485707fb0df6
+1673943064100	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+1673943069099	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673943091346	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2199,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2199","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:1104"]}] Barrier: quit-application-granted
+1673947436891	Marionette	INFO	Stopped listening on port 59803
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 4652, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+[GFX1]: Attempting to post to an invalid Compositor Thread
+s/browser/00b866ed-2456-41ba-8c68-69a27fe01c0a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+1673945768818	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673945770564	Marionette	INFO	Stopped listening on port 60461
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 2192, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1673947353256	geckodriver	INFO	Listening on 127.0.0.1:60810
+1673947356423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60811" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileEpdCaf"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673947359150	Marionette	INFO	Marionette enabled
+1673947359167	Marionette	INFO	Listening on port 60821
+Read port: 60821
+WebDriver BiDi listening on ws://127.0.0.1:60811
+1673947359783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileEpdCaf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60811/devtools/browser/7998a23c-ffe7-4513-b288-820c12e6ce47
+1673947387034	Marionette	INFO	Stopped listening on port 60821
+!!! error running onStopped callback: TypeError: callback is not a function
+1673947466827	geckodriver	INFO	Listening on 127.0.0.1:61213
+1673947470000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61214" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileTzhhKV"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673947472024	Marionette	INFO	Marionette enabled
+1673947472038	Marionette	INFO	Listening on port 61221
+Read port: 61221
+WebDriver BiDi listening on ws://127.0.0.1:61214
+1673947472648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileTzhhKV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61214/devtools/browser/65ee9c53-2e08-45a8-a743-7e1ef2907f76
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+1673947500701	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673947503395	Marionette	INFO	Stopped listening on port 61221
+!!! error running onStopped callback: TypeError: callback is not a function
+1673947886152	geckodriver	INFO	Listening on 127.0.0.1:61531
+1673947889171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61532" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileBrSBZa"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673947890913	Marionette	INFO	Marionette enabled
+1673947890928	Marionette	INFO	Listening on port 61540
+Read port: 61540
+WebDriver BiDi listening on ws://127.0.0.1:61532
+1673947891563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileBrSBZa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61532/devtools/browser/49f37017-a451-4240-826a-386e0a3302ba
+1673947950419	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673947952749	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673957709487	Marionette	INFO	Stopped listening on port 61540
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61802" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilec9PNuS"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673949178679	Marionette	INFO	Marionette enabled
+1673949178696	Marionette	INFO	Listening on port 61809
+Read port: 61809
+WebDriver BiDi listening on ws://127.0.0.1:61802
+1673949179263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilec9PNuS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61802/devtools/browser/e70e50cc-2f00-457d-a60c-e9662e7c07b3
+[Child 15808, MediaDecoderStateMachine #1] WARNING: Decoder=24e22a28a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 15808, MediaDecoderStateMachine #1] WARNING: Decoder=24e22a28a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+1673949207112	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673949209501	Marionette	INFO	Stopped listening on port 61809
+!!! error running onStopped callback: TypeError: callback is not a function
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1673949393261	geckodriver	INFO	Listening on 127.0.0.1:61970
+1673949396291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileuP82zr"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673949397928	Marionette	INFO	Marionette enabled
+1673949397946	Marionette	INFO	Listening on port 61981
+Read port: 61981
+WebDriver BiDi listening on ws://127.0.0.1:61971
+1673949398494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileuP82zr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61971/devtools/browser/c50c35c3-55e7-4bb9-b17e-57b023817f26
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+1673949423625	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673949425718	Marionette	INFO	Stopped listening on port 61981
+1673952642305	geckodriver	INFO	Listening on 127.0.0.1:62422
+1673952645402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofiledzIR9B"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673952647671	Marionette	INFO	Marionette enabled
+1673952647686	Marionette	INFO	Listening on port 62435
+Read port: 62435
+WebDriver BiDi listening on ws://127.0.0.1:62423
+1673952648238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofiledzIR9B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62423/devtools/browser/b2ea7d69-be24-4ad2-bc34-2bfc067a6f34
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1673952681964	Marionette	INFO	Stopped listening on port 62435
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://pdf.js/PdfjsParent.jsm, line 245: TypeError: aBrowser is null
+1673957612353	geckodriver	INFO	Listening on 127.0.0.1:64403
+1673957615460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64404" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileita2BP"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673957618568	Marionette	INFO	Marionette enabled
+1673957618585	Marionette	INFO	Listening on port 64430
+Read port: 64430
+WebDriver BiDi listening on ws://127.0.0.1:64404
+1673957619309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileita2BP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64404/devtools/browser/13bd3375-f812-49c0-9eb9-8a73fc178889
+1673957711035	Marionette	INFO	Stopped listening on port 64430
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1673959186172	geckodriver	INFO	Listening on 127.0.0.1:49556
+1673959189214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileGCAsUI"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1673959191153	Marionette	INFO	Marionette enabled
+1673959191166	Marionette	INFO	Listening on port 49566
+Read port: 49566
+WebDriver BiDi listening on ws://127.0.0.1:49557
+1673959191790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileGCAsUI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49557/devtools/browser/550f946b-a0b8-4b7f-bc8e-1744416a37bc
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:325:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:396:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.sys.mjs:2277:8
+onClosed@chrome://remote/content/marionette/server.sys.mjs:206:17
+close@chrome://remote/content/marionette/transport.sys.mjs:217:18
+onInputStreamReady@chrome://remote/content/marionette/transport.sys.mjs:371:14
+
+1673959268400	Marionette	INFO	Stopped listening on port 49566
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1674143691222	geckodriver	INFO	Listening on 127.0.0.1:57650
+1674143694470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilemOPjjn"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1674143706067	Marionette	INFO	Marionette enabled
+1674143706098	Marionette	INFO	Listening on port 57701
+Read port: 57701
+Read port: 57701
+WebDriver BiDi listening on ws://127.0.0.1:57651
+Read port: 57701
+1674143709065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofilemOPjjn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57651/devtools/browser/6264eb47-4cdf-4619-be8f-c3a70310f1e4
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1674143757189	Marionette	INFO	Stopped listening on port 57701
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+[Parent 15800, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1674143761546	geckodriver	INFO	Listening on 127.0.0.1:57918
+1674143764599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileq5ss3I"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1674143767181	Marionette	INFO	Marionette enabled
+1674143767207	Marionette	INFO	Listening on port 57937
+Read port: 
+1674143767273	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 57937
+WebDriver BiDi listening on ws://127.0.0.1:57919
+1674143768410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileq5ss3I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57919/devtools/browser/4e48aa4c-83fa-414a-9d40-ae591893a9cc
+1674143835941	Marionette	INFO	Stopped listening on port 57937
+!!! error running onStopped callback: TypeError: callback is not a function
+1674143843156	geckodriver	INFO	Listening on 127.0.0.1:58183
+1674143846165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58184" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileJmnFad"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1674143857021	Marionette	INFO	Marionette enabled
+1674143857042	Marionette	INFO	Listening on port 58222
+Read port: 58222
+Read port: 58222
+WebDriver BiDi listening on ws://127.0.0.1:58184
+1674143858932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileJmnFad\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58184/devtools/browser/124558d2-c309-43d4-8197-a8d642d22656
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1674143921853	Marionette	INFO	Stopped listening on port 58222
+!!! error running onStopped callback: TypeError: callback is not a function
+1676011873815	geckodriver	INFO	Listening on 127.0.0.1:49376
+1676011877117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileIeE2C6"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+1676011882297	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676011882311	Marionette	INFO	Listening on port 49407
+Read port: 49407
+WebDriver BiDi listening on ws://127.0.0.1:49377
+Read port: 49407
+1676011883831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\INDIUM~1\\AppData\\Local\\Temp\\rust_mozprofileIeE2C6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49377/devtools/browser/bd1ad8b3-1c79-43b4-80f2-fedc39fe9391
+1676012111984	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1676012112050	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bupa.com."
+1676012157839	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.bupa.com/javascripts/jquery-ba-bbq.js?revision=84bace89-a6e1-4e65-be17-75c954dc7a13, line 1: TypeError: f is undefined
+1676012160867	Marionette	INFO	Stopped listening on port 49407
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

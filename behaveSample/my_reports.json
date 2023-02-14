@@ -1,0 +1,195 @@
+[
+  {
+    "elements": [
+      {
+        "keyword": "Scenario",
+        "location": "behaveSample/features/bupa.feature:4",
+        "name": "Verify the site navigation",
+        "status": "passed",
+        "steps": [
+          {
+            "keyword": "Given",
+            "location": "behaveSample/features/bupa.feature:5",
+            "match": {
+              "arguments": [],
+              "location": "behaveSample/features/steps/bupa_steps.py:13"
+            },
+            "name": "I open our bupa link",
+            "result": {
+              "duration": 5.2132248878479,
+              "status": "passed"
+            },
+            "step_type": "given"
+          },
+          {
+            "keyword": "Then",
+            "location": "behaveSample/features/bupa.feature:6",
+            "match": {
+              "arguments": [],
+              "location": "behaveSample/features/steps/bupa_steps.py:18"
+            },
+            "name": "I verify the page title",
+            "result": {
+              "duration": 0.015665769577026367,
+              "status": "passed"
+            },
+            "step_type": "then"
+          }
+        ],
+        "tags": [
+          "sample"
+        ],
+        "type": "scenario"
+      },
+      {
+        "keyword": "Scenario Outline",
+        "location": "behaveSample/features/bupa.feature:19",
+        "name": "Verify site services in various location -- @1.1 ",
+        "status": "skipped",
+        "steps": [
+          {
+            "keyword": "Given",
+            "location": "behaveSample/features/bupa.feature:10",
+            "name": "I am on landing page",
+            "step_type": "given"
+          },
+          {
+            "keyword": "When",
+            "location": "behaveSample/features/bupa.feature:11",
+            "name": "I mouse hover on customer websites dropdown",
+            "step_type": "when"
+          },
+          {
+            "keyword": "And",
+            "location": "behaveSample/features/bupa.feature:12",
+            "name": "I click on customer websites link",
+            "step_type": "when"
+          },
+          {
+            "keyword": "And",
+            "location": "behaveSample/features/bupa.feature:13",
+            "name": "I select \"united-kingdom\" from dropdown",
+            "step_type": "when"
+          },
+          {
+            "keyword": "And",
+            "location": "behaveSample/features/bupa.feature:14",
+            "name": "I navigate using \"Visit Bupa UK\" associated with country link",
+            "step_type": "when"
+          },
+          {
+            "keyword": "Then",
+            "location": "behaveSample/features/bupa.feature:15",
+            "name": "I verify the \"Private healthcare -> Bupa UK\" of the country",
+            "step_type": "then"
+          }
+        ],
+        "tags": [
+          "dropdownTest"
+        ],
+        "type": "scenario"
+      },
+      {
+        "keyword": "Scenario Outline",
+        "location": "behaveSample/features/bupa.feature:20",
+        "name": "Verify site services in various location -- @1.2 ",
+        "status": "skipped",
+        "steps": [
+          {
+            "keyword": "Given",
+            "location": "behaveSample/features/bupa.feature:10",
+            "name": "I am on landing page",
+            "step_type": "given"
+          },
+          {
+            "keyword": "When",
+            "location": "behaveSample/features/bupa.feature:11",
+            "name": "I mouse hover on customer websites dropdown",
+            "step_type": "when"
+          },
+          {
+            "keyword": "And",
+            "location": "behaveSample/features/bupa.feature:12",
+            "name": "I click on customer websites link",
+            "step_type": "when"
+          },
+          {
+            "keyword": "And",
+            "location": "behaveSample/features/bupa.feature:13",
+            "name": "I select \"australia\" from dropdown",
+            "step_type": "when"
+          },
+          {
+            "keyword": "And",
+            "location": "behaveSample/features/bupa.feature:14",
+            "name": "I navigate using \"Visit Bupa Australia\" associated with country link",
+            "step_type": "when"
+          },
+          {
+            "keyword": "Then",
+            "location": "behaveSample/features/bupa.feature:15",
+            "name": "I verify the \"Bupa -> Health and care\" of the country",
+            "step_type": "then"
+          }
+        ],
+        "tags": [
+          "dropdownTest"
+        ],
+        "type": "scenario"
+      },
+      {
+        "keyword": "Scenario Outline",
+        "location": "behaveSample/features/bupa.feature:21",
+        "name": "Verify site services in various location -- @1.3 ",
+        "status": "skipped",
+        "steps": [
+          {
+            "keyword": "Given",
+            "location": "behaveSample/features/bupa.feature:10",
+            "name": "I am on landing page",
+            "step_type": "given"
+          },
+          {
+            "keyword": "When",
+            "location": "behaveSample/features/bupa.feature:11",
+            "name": "I mouse hover on customer websites dropdown",
+            "step_type": "when"
+          },
+          {
+            "keyword": "And",
+            "location": "behaveSample/features/bupa.feature:12",
+            "name": "I click on customer websites link",
+            "step_type": "when"
+          },
+          {
+            "keyword": "And",
+            "location": "behaveSample/features/bupa.feature:13",
+            "name": "I select \"brazil\" from dropdown",
+            "step_type": "when"
+          },
+          {
+            "keyword": "And",
+            "location": "behaveSample/features/bupa.feature:14",
+            "name": "I navigate using \"Visit Care Plus\" associated with country link",
+            "step_type": "when"
+          },
+          {
+            "keyword": "Then",
+            "location": "behaveSample/features/bupa.feature:15",
+            "name": "I verify the \"Care Plus -> Plano de Sa\u00fade e Dental Premium, Cl\u00ednicas e Ocupacional\" of the country",
+            "step_type": "then"
+          }
+        ],
+        "tags": [
+          "dropdownTest"
+        ],
+        "type": "scenario"
+      }
+    ],
+    "keyword": "Feature",
+    "location": "behaveSample/features/bupa.feature:1",
+    "name": "Sample tests on Bupa site",
+    "status": "passed",
+    "tags": []
+  }
+]
